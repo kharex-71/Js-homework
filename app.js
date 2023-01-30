@@ -4,7 +4,7 @@ which is the newest and best based on the years.*/
 
 let car1 = {
   brand: "BMW",
-  model: 328,
+  model: 525,
   dateOfIssue: 1998,
 };
 
@@ -38,4 +38,4 @@ function compareCar(carOne, carTwo) {
   }
 }
 
-compareCar(car2, car4);
+compareCar(car1, car4);
