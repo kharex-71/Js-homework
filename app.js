@@ -38,4 +38,4 @@ function compareCar(carOne, carTwo) {
   }
 }
 
-compareCar(car3, car4);
+compareCar(car2, car4);
